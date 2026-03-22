@@ -1,7 +1,8 @@
 Index,Quantity,Part Number,Manufacturer Part Number,Description,Customer Reference,Available,Backorder,Unit Price,Extended Price USD,Link
-1,2(pack of 35),1644-MX2A-HC1B-ND,80Retros x HMX Volume,,2,0.0,17.8,35.6,https://stackskb.com/store/hmx-volume-0-pack-of-35/
-2,61,1N4148FSCT-ND,1N4148TR,DIODE STANDARD 100V 200MA DO35,,alredy have,0.0,0,0,
-3,1,2648-SC0917-ND,SC0917,RASPBERRY PI PICO H RP2040,,1.0,0.0,5.5,5.5,https://robu.in/product/raspberry-pi-pico-with-headers/
-4,1,Keycaps Set,,Cherry Profile Keycap,,, ,60.5,60.5,https://stackskb.com/store/80retros-x-click-win-1998-cherry-profile-keycap-set-245-key/
-5,1,stabalizer,,Screw-In Stabilizers V2,,, ,17.1,17.1,https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/?attribute_combination=4%2B1+Set&attribute_spacebar-size=6.25U
-6,1,PCB + Shipping,JLCPCB,PCB fabrication and shipping,,, ,29.51,29.51,https://jlcpcb.com
+1,2 (pack of 35),1644-MX2A-HC1B-ND,80Retros x HMX Volume,,,2,0.0,17.8,35.6,https://stackskb.com/store/hmx-volume-0-pack-of-35/
+2,61,1N4148FSCT-ND,1N4148TR,DIODE STANDARD 100V 200MA DO35,,Already have,0.0,0,0,
+3,1,2648-SC0917-ND,SC0917,Raspberry Pi Pico H RP2040,,,1.0,0.0,5.5,5.5,https://robu.in/product/raspberry-pi-pico-with-headers/
+4,1,Keycaps Set,,Cherry Profile Keycap,,,,60.5,60.5,https://stackskb.com/store/80retros-x-click-win-1998-cherry-profile-keycap-set-245-key/
+5,1,Stabilizer,,Screw-In Stabilizers V2,,,,17.1,17.1,https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/?attribute_combination=4%2B1+Set&attribute_spacebar-size=6.25U
+6,1,PCB + Shipping,JLCPCB,PCB fabrication and shipping,,,,29.51,29.51,https://jlcpcb.com
+
