@@ -5,17 +5,20 @@ I wanted to make a mecanical keyboard ,So i Choose a 60% layout Keyboard as it i
 - Base on Raspberry pico
 - Has 61 keys ( 60% Keyboard Matrix)
 
-- - ## Bill of Materials (BOM)
+- ## 🧾 Bill of Materials (BOM)
 
-| Item | Quantity | Description | Unit Price (USD) | Link |
-|-----:|---------:|-------------|------------------:|------|
-| Cherry MX Switch (MX2A-HC1B) | 61 | Mechanical key switch | 1.95 | https://www.digikey.in/en/products/detail/cherry-americas-llc/MX2A-HC1B/21738427 |
-| 1N4148 Diode | 61 | Switching diode for key matrix | 0.041 | https://www.digikey.in/en/products/detail/onsemi/1N4148TR/458811 |
-| Raspberry Pi Pico (RP2040) | 1 | Main microcontroller board | 5.00 | https://www.digikey.in/en/products/detail/raspberry-pi/SC0917/16608257 |
-| Keycaps Set | 1 | Backlit mechanical keyboard keycaps | 38.68 | https://www.amazon.in/Keycaps-Backlit-Mechanical-Keyboard-Switches/dp/B08R5YPYCD |
-| PCB + Shipping (JLCPCB) | 1 | PCB fabrication and shipping | 29.51 | https://jlcpcb.com |
+| # | Item | Description | Quantity | Unit Price (USD) | Total (USD) | Link |
+|---|------|-------------|----------|------------------|-------------|------|
+| 1 | 80Retros x HMX Volume | Mechanical switches (pack of 35) | 2 packs | 17.8 | 35.6 | https://stackskb.com/store/hmx-volume-0-pack-of-35/ |
+| 2 | 1N4148 Diode | DO-35 switching diode | 61 | 0 | 0 | |
+| 3 | Raspberry Pi Pico H | RP2040 microcontroller board | 1 | 5.5 | 5.5 | https://robu.in/product/raspberry-pi-pico-with-headers/ |
+| 4 | MAO Keycap Set | Full keycap set | 1 | 44.5 | 44.5 | https://stackskb.com/store/akko-panda-mao-keycap-set-142-key/ |
+| 5 | Screw-In Stabilizers V2 | Keyboard stabilizers | 1 set | 17.1 | 17.1 | https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/?attribute_combination=4%2B1+Set&attribute_spacebar-size=6.25U |
+| 6 | PCB + Shipping | PCB fabrication (JLCPCB) | 1 | 29.51 | 29.51 | https://jlcpcb.com |
 
-**Estimated Total Hardware Cost:** **USD 194.64**
+### 💰 Total Cost
+**$132.21 USD**
+
 
 ## Hardware
 - Raspberry Pico 
