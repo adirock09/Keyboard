@@ -18,7 +18,7 @@ I wanted to make a mecanical keyboard ,So i Choose a 60% layout Keyboard as it i
 
 ### 💰 Total Cost
 **$132.21 USD**
-
+I am bidding for 100 USD and rest money will be paid by me myself.
 
 ## Hardware
 - Raspberry Pico 
