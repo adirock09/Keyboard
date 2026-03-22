@@ -36,6 +36,11 @@ I am bidding for **100 USD** and rest **money will be paid by me myself**.
 <img width="1559" height="559" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/efe91906-9368-4105-8938-b1c808c01537" />
 
 - ### 3D Design
-<img width="1106" height="317" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/dbe10075-6353-42b2-8ff1-e26e815e669e" />
-
-- 
+- <br>
+<img width="947" height="693" alt="Screenshot (280)" src="https://github.com/user-attachments/assets/25679882-8b45-493d-9ac9-638437a5106e" />
+<br>
+<img width="952" height="664" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/0f59892d-c3d2-460a-9270-0ca0ba56c0f6" />
+<br>
+- <img width="1183" height="432" alt="Screenshot (278)" src="https://github.com/user-attachments/assets/e5ab824b-e2ec-4832-b5a4-14f87f9af2fa" />
+<br>
+<img width="1183" height="459" alt="Screenshot (277)" src="https://github.com/user-attachments/assets/f8a5ce68-691e-4e35-b2fe-5f60ff2d8ead" />
