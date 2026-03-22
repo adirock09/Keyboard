@@ -17,7 +17,7 @@ I wanted to make a mecanical keyboard ,So i Choose a 60% layout Keyboard as it i
 | 6 | PCB + Shipping | PCB fabrication (JLCPCB) | 1 | 29.51 | 29.51 | https://jlcpcb.com |
 
 ### 💰 Total Cost
-**$132.21 USD**
+**$132.21 USD**<br>
 I am bidding for **100 USD** and rest **money will be paid by me myself**.
 
 ## Hardware
