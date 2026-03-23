@@ -39,11 +39,7 @@ I am bidding for **100 USD** and rest **money will be paid by me myself**.
 - <br>
 <img width="964" height="589" alt="Screenshot (284)" src="https://github.com/user-attachments/assets/bc40b547-b40d-4580-bdc9-3d3e7592741d" />
 
-<br>
-<img width="943" height="593" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/6f67661b-899d-48d9-a6da-8759a86eb472" />
 
-<br>
-- <img width="1010" height="332" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/ff09e29f-f034-40f7-b2e8-2a029f40d696" />
 
 <br>
 <img width="1083" height="374" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/6b4a39dd-b126-468e-9e76-a7aefecf5e0f" />
